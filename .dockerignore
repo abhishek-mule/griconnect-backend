@@ -1,0 +1,15 @@
+# Ignore files not needed in images
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+coverage
+.git
+.gitignore
+.env
+.env.*
+Dockerfile
+start-out.log
+start-err.log
